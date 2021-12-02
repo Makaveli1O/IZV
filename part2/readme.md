@@ -1,6 +1,6 @@
 Výsledné grafy:
 
-## readtype:
+## roadtype:
 ![01_roadtype](https://user-images.githubusercontent.com/72377071/144381928-c06d4d24-4def-47d1-8874-6140b5ace767.png)
 
 ## animals:
