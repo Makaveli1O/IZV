@@ -1,6 +1,7 @@
 # IZV 
 Data Analysis and Visualization in Python
 ## Hodnotenie part 1 12/20
+```
 +2 delky vsech datovych sloupcu jsou stejne (az 2 bodu)
 +2 stahlo se 95_835 zaznamu (az 2 bodu)
 +2 uspesne se stahl Plzensky kraj (s chybou v textu) (az 2 bodu)
@@ -15,7 +16,9 @@ Data Analysis and Visualization in Python
 +1.00 graf z get_stat.py (az 2 bodu)
 -1 bonus (az -1 bodu)
 CELKEM: 15.0 bodu
+```
 ## Hodnotenie part 2 19.2/20
+```
 Hodnoceni druhe casti projektu: xliska20
 ================================================================================
 +1.00 pouzite kategoricke typy (>=2) (az 1 bodu)
@@ -65,7 +68,9 @@ PEP8 analysis.py
 ================================================================================
 5       E226 missing whitespace around arithmetic operator
 2       E241 multiple spaces after ','
+```
 ## Hodnotenie part 3 48/60
+```
 Hodnoceni treti casti projektu: xliska20
 ================================================================================
 Geograficka data
@@ -158,3 +163,4 @@ Vystup PEP8 testu souboru doc.py
 3       E241 multiple spaces after ','
 2       W291 trailing whitespace
 1       W503 line break before binary operator
+```
