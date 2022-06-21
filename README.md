@@ -1,6 +1,6 @@
 # IZV 
 Data Analysis and Visualization in Python
-## Hodnotenie part 1 12/20
+## Hodnotenie part 1 15/20
 ```
 +2 delky vsech datovych sloupcu jsou stejne (az 2 bodu)
 +2 stahlo se 95_835 zaznamu (az 2 bodu)
